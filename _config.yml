@@ -1,0 +1,28 @@
+name: UKwifi
+favicon: null
+layout_spectrum: 0.7862317403778434
+typography_spectrum: 0.1908040379639715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8658993451390415
+  lightness: 0.7203973254654557
+  saturation: 0.45791011303663254
+  rhythmicContrast: 0.2697001739870757
+purpose: []
